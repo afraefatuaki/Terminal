@@ -59,6 +59,7 @@ main{
 .highlight mark{
     color: white;
     background-color: rgb(113, 156, 113);
+    color: #EAF3F9;
 }
 .highlight{
     padding: 0px 0 0 6%;
